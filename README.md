@@ -1,5 +1,7 @@
 # Fuori, Nero!
 
+![Copertina di Fuori, Nero!](cover.png)
+
 Prototipo PICO-8 per un metroidvania compatto con protagonista un gatto nero.
 
 ## Cartuccia
